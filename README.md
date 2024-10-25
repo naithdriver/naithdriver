@@ -7,7 +7,7 @@
 ## About Me
 Hi, I'm **Nenad Petrovic**, also known as **naithdriver**. </br> I'm from Serbia, and I currently live in Georgia, Tbilisi. </br> I’m passionate about blending creativity with technology and have experience </br> with a wide variety of creative tools and technical skills.
 
-- 💻 **ACE** (Average Code Enjoyer)
+- **ACE** (Average Code Enjoyer)
 - Fluent in Serbian (native) and English
 
 ### Founder of
