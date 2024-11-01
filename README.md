@@ -17,10 +17,7 @@ I specialize in content creation, community engagement, and event organization w
 ---
 
 ## Connect with Me
-- [![Website Badge](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=internet-explorer&logoColor=white)](https://naithdriver.com)
-- [![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/naithdriver)
-- [![Email Badge](https://img.shields.io/badge/Email-Contact%20Us-green?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@naithdriver.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://ge.linkedin.com/in/nenad-petrovic-35a385336?trk=profile-badge)
+[![Website Badge](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=internet-explorer&logoColor=white)](https://naithdriver.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/naithdriver) [![Email Badge](https://img.shields.io/badge/Email-Contact%20Us-green?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@naithdriver.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://ge.linkedin.com/in/nenad-petrovic-35a385336?trk=profile-badge)
 
 ---
 
